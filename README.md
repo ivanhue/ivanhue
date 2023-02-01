@@ -19,8 +19,8 @@
 - Computer Science 💻
 - Books 📖
 - Science 👨‍🔬
-- Mathematics 🤯
-- Phylosophy 👨‍🎓
+- Mathematics 👨‍🎓
+- Phylosophy 🤯
 - Swiming 🏊‍♂️
 
 
