@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-alejandrovillegas.hu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alejandrovillegas@gmail.com)](mailto:alejandrovillegas@gmail.com)
 
 
-### I am Alejandro Iván, I am from Mexico City, Mexico and I studied Computer Science at UAM. I love artificial intelligence and I want to participate in any project about it.
+### I am Alejandro Iván, I am from Mexico City and I studied Computer Science at UAM. I love artificial intelligence and I want to participate in any project about it.
 
 ### My top technologies
 
