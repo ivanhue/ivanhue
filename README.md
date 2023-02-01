@@ -16,6 +16,12 @@
 |![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-SQL-black?logo=mysql&style=plastic)|![](https://img.shields.io/badge/-C-black?logo=c&style=plastic)
 
 ### Ask me about
+- Computer Science 💻
+- Books 📖
+- Science 👨‍🔬
+- Mathematics 🤯
+- Phylosophy 👨‍🎓
+- Swiming 🏊‍♂️
 
 
 
