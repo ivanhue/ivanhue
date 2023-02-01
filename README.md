@@ -17,12 +17,14 @@
 
 ### Ask me about
 - Computer Science 💻
+- Volunteer 🤝
 - Books 📖
 - Science 👨‍🔬
 - Mathematics 👨‍🎓
 - Phylosophy 🤯
 - Swiming 🏊‍♂️
 - Video games 🎮
+
 
 <!--
 **ivanhue/ivanhue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
