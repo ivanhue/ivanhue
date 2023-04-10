@@ -3,9 +3,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ivanhue)
-[![Twitter Badge](https://img.shields.io/badge/-@kala_au-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kala_au)](https://twitter.com/kala_au) 
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-kalaAu-yellow)](https://huggingface.co/kalaAu)
 [![Linkedin Badge](https://img.shields.io/badge/-alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-ivan//)](https://www.linkedin.com/in/alejandro-ivan//)
-[![Gmail Badge](https://img.shields.io/badge/-alejandrovillegas.hu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alejandrovillegas@gmail.com)](mailto:alejandrovillegas.hu@gmail.com)
 
 
 ### I am Alejandro Iván, I am from Mexico City and I studied Computer Science at UAM. I love artificial intelligence and I want to participate in any project about it.
@@ -18,11 +17,11 @@
 
 ### Ask me about
 - Computer Science 💻
+- Neuroscience 🧠
 - Volunteer 🤝
 - Books 📖
-- Science 👨‍🔬
+- Space 🌠
 - Mathematics 👨‍🎓
-- Phylosophy 🤯
 - Swiming 🏊‍♂️
 - Video games 🎮
 
