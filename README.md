@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-ivan//)](https://www.linkedin.com/in/alejandro-ivan//)
 
 
-### I am Alejandro Iván, I am from Mexico City and I studied Computer Science at UAM. I love artificial intelligence and I want to participate in any project about it.
+### I'm Alejandro Iván from Mexico City, and I studied Computer Science. I would love to work on any AI-related project. If you are looking for someone on your team, please let me know!
 
 ### My top technologies
 
