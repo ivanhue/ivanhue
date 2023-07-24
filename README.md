@@ -3,9 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ivanhue)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-kalaAu-yellow)](https://huggingface.co/kalaAu)
-[![Linkedin Badge](https://img.shields.io/badge/-alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-ivan//)](https://www.linkedin.com/in/alejandro-ivan//)
-
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/kalaAu)[![Linkedin Badge](https://img.shields.io/badge/-alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-ivan//)](https://www.linkedin.com/in/alejandro-ivan//)[![Leetcode](https://badges.peiyuan.ch/leetcode/KalaAu/name?labelColor=black)](https://leetcode.com/KalaAu/)
 
 ### I'm Alejandro Iván from Mexico City, and I studied Computer Science. I would love to work on any AI-related project. If you are looking for someone on your team, please let me know!
 
